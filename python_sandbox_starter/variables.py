@@ -19,4 +19,8 @@ VARIABLE RULES:
 #is_cool = True
 
 x,y,name,is_cool = (1,2.5,'John',True)
-print(x)
+
+x=str(x)
+y=int(y)
+
+print(type(y),y)

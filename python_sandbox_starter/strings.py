@@ -4,3 +4,8 @@
 # String Formatting
 
 # String Methods
+
+s = "lli glasgow"
+age=31
+
+print(s.find("a"))
